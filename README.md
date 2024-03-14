@@ -156,7 +156,7 @@ Line  170: React toolchain helps to create, build, run and deploy the React appl
 	Line  225: Babel helps us to write our application in next generation of advanced JavaScript syntax. 
 	Line 4526: React redux is an advanced state management library for React. As we learned earlier, React only supports component level state management. In a big and complex application, large number of components are used. React recommends to move the state to the top level component and pass the state to the nested component using properties. It helps to some extent but it becomes complex when the components increases.  
 	Line 4527: React redux chips in and helps to maintain state at the application level. React redux allows any component to access the state at any time. Also, it allows any component to change the state of the application at any time. 
-S
+
 
 
 
